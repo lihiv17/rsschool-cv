@@ -1,6 +1,6 @@
 ***Likhtarovich Ivan***
 
-mail: i.lixtarovich@mail.ru
+mail: i.lixtarovich@mail.ru  
 discord: toovolley
 
 I am a beginner frondend developer.  
