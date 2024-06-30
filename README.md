@@ -1,4 +1,5 @@
 # rsschool-cv
-init: start youtube-task
-feat: add basic page layout
-fix: implement correct loading data from youtube
+init: start youtube-task  
+feat: add basic page layout  
+fix: implement correct loading data from youtube  
+https://lihiv17.github.io/rsschool-cv/cv
